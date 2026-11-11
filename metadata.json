@@ -1,0 +1,8 @@
+{
+  "name": "원주 피치피치 페스티벌 2027 초안",
+  "description": "미로예술 원주중앙시장에서 펼쳐지는 청춘과 복숭아의 축제, 원주 피치피치 페스티벌 공식 안내 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
